@@ -1,0 +1,6 @@
+company,title,location,skills,salary
+Google,Data Engineer,Bangalore,"Python,SQL,Spark",1800000
+Amazon,Data Engineer,Chennai,"Python,SQL,Airflow",1600000
+Microsoft,Data Engineer,Hyderabad,"Python,SQL,Kafka",1900000
+Infosys,Data Analyst,Chennai,"SQL,Power BI",800000
+Accenture,Data Engineer,Pune,"Python,SQL",1200000
